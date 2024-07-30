@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm Vagner from São Paulo, Brazil<br><br>- 🔭 I’m working as Back-end Developer</p>
+<p align="left">I'm Vagner from São Paulo, Brazil<br><br>- 🔭 I’m working as a Back-end Developer</p>
 
 ###
 
